@@ -1,0 +1,129 @@
+html[dir='rtl'] .homepage .Topics .content h2 .icon_bac {
+  right: auto;
+  left: -60px;
+}
+
+/* html[dir='rtl'] img {
+    transform: rotateY(180deg);
+} */
+
+html[dir='rtl'] .navbar .notificarion .dropdown-menu {
+  right: auto;
+  left: 0px;
+}
+
+html[dir='rtl'] .navbar .navbar-btns form button {
+  right: auto;
+  left: 10px;
+}
+
+html[dir='rtl'] .text-right {
+  text-align: left;
+}
+
+html[dir='rtl'] .homepage header .containerHeader .background {
+  right: -100px;
+  left: auto;
+}
+
+html[dir='rtl'] .accordion-button::after {
+  margin-right: auto;
+  margin-left: 0px;
+}
+
+html[dir='rtl'] .homepage .Topics .content {
+  padding-left: 0px;
+  padding-right: 40px;
+}
+
+html[dir='rtl'] .navbar .dropdown.notificarion .dropdown-toggle span {
+  left: -2px;
+  right: auto;
+}
+
+html[dir='rtl'] .form-group {
+  margin-left: 50px;
+  margin-right: 0px;
+}
+
+html[dir='rtl'] .otp_form .form-group {
+  margin-left: auto;
+}
+
+html[dir='rtl'] .dropdown-menu.show {
+  text-align: start;
+}
+
+html[dir='rtl'] .form-group .icon {
+  right: auto;
+  left: 15px;
+}
+
+html[dir='rtl'] .form-group select.form-control {
+  left: auto;
+  right: 5px;
+}
+
+html[dir='rtl'] .form-group .phone {
+  padding-right: 12%;
+  padding-left: auto;
+}
+
+html[dir='rtl'] .form-check .form-check-input {
+  float: right;
+}
+
+html[dir='rtl'] .categories .DropdownRoom .dropdown-menu .customer-upload img {
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+html[dir='rtl'] .navbar .navbar-btns form {
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+html[dir='rtl'] .modal-header .btn-close {
+  right: auto;
+  left: 13px
+}
+
+html[dir='rtl'] #logout .button button.logout,
+html[dir='rtl'] #DeleteModel .button button.logout,
+html[dir='rtl'] #cancle .button button.logout {
+  margin-left: 3%;
+  margin-right: 0px;
+}
+
+html[dir='rtl'] .package .packages .title p {
+  text-align: right;
+}
+
+html[dir='rtl'] .profile .container .info img {
+  right: auto;
+  left: 0px;
+}
+
+html[dir='rtl'] #MyfilesandProfilesModal .next {
+  right: auto;
+  left: 0px;
+}
+
+html[dir='rtl'] .Calendar .PaymentCards_items .Datepicker {
+  margin: 30px 0px 30px 100px;
+}
+
+html[dir='rtl'] .PaymentCards .PaymentCards_items .items .content .PaymentCards_way {
+  margin-right: 0px;
+  margin-left: 20px
+}
+
+html[dir='rtl'] .PaymentCards .PaymentCards_items .content .edit {
+  right: auto;
+  left: 10px;
+}
+
+html[dir='rtl'] .PaymentCards .PaymentCards_items ul li .check {
+  margin-right: 0px;
+  margin-left: 10px
+}

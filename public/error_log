@@ -1,0 +1,40 @@
+[20-Apr-2024 14:07:05 UTC] PHP Warning:  require(/home/smi1hkr8zhbn/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/smi1hkr8zhbn/public_html/public/index.php on line 34
+[20-Apr-2024 14:07:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/smi1hkr8zhbn/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/smi1hkr8zhbn/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/smi1hkr8zhbn/public_html/public/index.php on line 34
+[21-Feb-2025 13:01:03 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:01:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:10 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:11 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:11 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:24 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:24 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:25 UTC] PHP Warning:  require(/home/fan4d/public_html/dashboard/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[21-Feb-2025 13:05:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fan4d/public_html/dashboard/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/fan4d/public_html/dashboard/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34

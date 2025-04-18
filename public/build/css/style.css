@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;700;800&display=swap');
+
+/* Apply Cairo font to all elements */
+* {
+    font-family: 'Cairo', sans-serif!important;
+}
+
+.auth-one-bg .bg-overlay {
+    background: -webkit-gradient(linear, right top, left top, from(#364574), to(#aa7b9c));
+}
+.navbar-menu {
+    background-color: #192D58!important;
+}
+:root,[data-bs-theme=light]{
+    --vz-primary: #192D58!important;
+}
