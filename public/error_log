@@ -38,3 +38,9 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/fan4d/public_html/dashboard/public/index.php on line 34
+[18-Apr-2025 17:07:40 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 61
+[18-Apr-2025 17:10:49 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 39
+[18-Apr-2025 17:10:51 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 39
+[18-Apr-2025 17:10:51 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 39
+[18-Apr-2025 17:10:52 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 39
+[18-Apr-2025 17:11:05 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in /opt/fan_backend/app/Providers/AppServiceProvider.php on line 39
