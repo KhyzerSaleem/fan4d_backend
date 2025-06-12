@@ -40,7 +40,7 @@ COPY --from=php /var/www /var/www
 WORKDIR /var/www
 
 # Expose web port
-EXPOSE 8080
+EXPOSE 9001
 
 # Start NGINX and PHP-FPM via Supervisor
 COPY ./docker/supervisord.conf /etc/supervisord.conf
